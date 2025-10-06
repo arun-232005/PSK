@@ -149,7 +149,6 @@ plt.show()
 <img width="724" height="423" alt="Screenshot 2025-10-06 141753" src="https://github.com/user-attachments/assets/55d604f7-feac-46b5-98d6-0d95aedeb0ca" />
 
 # Results
-```
 The experiment of modulation and demodulation of Phase Key Shifting and Quadriphase Key Shifting was successfully executed.
-```
+
 
